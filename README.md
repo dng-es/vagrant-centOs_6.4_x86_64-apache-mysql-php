@@ -1,7 +1,7 @@
 Vagrant centOs 6.4_x86_64 (Apache-MySql-Php)
 ============================================
 
-Vagrant centOs 6.4_x86_64 with Apache, Mysql and Php
+Vagrant centOs 6.4_x86_64 with Apache, MySql and Php
 
 <b>Vagrantfile</b>
 ```shell 
